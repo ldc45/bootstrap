@@ -1,0 +1,12 @@
+header{
+    background-image: url(/votreDossier/img/hero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+ 
+}
+
+.modal-body p{
+    text-align: justify;
+}
