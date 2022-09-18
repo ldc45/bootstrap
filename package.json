@@ -4,7 +4,7 @@
   "description": "Bienvenue dans le Github du projet fil rouge \"Portfolio\" associé au [cours OpenClassrooms sur Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass --watch ./scss/style.scss:./css/main.css"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/ldc45/bootstrap#readme",
   "dependencies": {
     "bootstrap": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
